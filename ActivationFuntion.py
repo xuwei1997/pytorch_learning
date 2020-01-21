@@ -1,4 +1,5 @@
-#修改自莫凡python，适用torch: 1.0
+# 激励函数
+# 修改自莫凡python，适用torch: 1.0
 
 # View more, visit my tutorial page: https://morvanzhou.github.io/tutorials/
 # My Youtube Channel: https://www.youtube.com/user/MorvanZhou
